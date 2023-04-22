@@ -38,6 +38,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     //Timer
 
+
     const deadline = '2023-04-24';
     /* const deadline = new Date().toString().slice(0, 10); */
     function getTimeRemaining(endtime){
